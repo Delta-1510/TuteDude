@@ -1,0 +1,21 @@
+.img {
+    width: 400px;
+    height: 400px;
+  margin-top: 8vw;
+  margin-left: 30vw;
+  margin-right: 30vw;
+  border-color: F599C6;
+  border-style: groove;
+
+}
+
+
+.btn{
+    width: 400px;
+    margin-left: 30vw;
+    margin-right: 30vw;
+    margin-top: 0vw;
+    cursor: pointer;
+    background-color: rgba(73, 146, 14, 0.686);
+
+}
