@@ -1,0 +1,28 @@
+.img {
+    width: 350px;
+    height: 350px;
+  margin-top: 10vh;
+  margin-bottom: 0vh;
+  margin-left: 25vw;
+  margin-right: 25vw;
+  border-color: F599C6;
+  border-style: groove;
+
+}
+
+
+.btn{
+    margin: 0vw;
+    padding: 5px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 2vw;
+    width: 350px;
+    margin-top: 0vw;
+    margin-bottom: 10vw;
+    margin-left: 25vw;
+    margin-right: 25vw;
+    cursor: pointer;
+    background:linear-gradient(to right, #ff7e5f, #076849ad)
+    
+
+}
